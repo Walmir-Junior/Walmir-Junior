@@ -1,4 +1,5 @@
-## Oiii eu sou o Walmir Junior, Dev Full Stack
+## Eae! Sou Walmir Junior, dev full stack
+
 <div align="center">
   <a href="https://github.com/Walmir-Junior">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Walmir-Junior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
